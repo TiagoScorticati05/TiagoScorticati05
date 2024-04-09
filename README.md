@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying systems engineering at CAECE Mar Del Plata.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design,microservices and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like to play the guitar and do gym.\
+✍️ &nbsp;In my free time, I like to play the guitar and go gym.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tiagoScorticati2005@Gmail.com ! I'll try to respond as soon as I can.\
 
